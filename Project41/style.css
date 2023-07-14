@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../Projwct41/Roboto-Regular.ttf);
+  }
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+    width: 400px;
+    height: 410px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+h1{
+    padding-left: 5px;
+    font-family: Roboto;
+}
+
+.ttxt{
+    width: 400px;
+    height: 50px;
+    padding-left: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(226, 224, 224);
+}
+
+.btn{
+    background-color: #1DA1F2;
+    width: 400px;
+    height: 45px;
+    border-radius: 76px;
+    border: none;
+    margin-top: 7px;
+    color: white;
+}
+
+p{
+    margin-top: 37px;
+    font-size: small;
+    color: #1DA1F2;
+}
+
+
+
